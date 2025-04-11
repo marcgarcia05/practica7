@@ -6,6 +6,12 @@ Un sistema de gestió de contingut desenvolupat amb Laravel que permet administr
 
 Aquest projecte és una aplicació web basada en Laravel que proporciona una plataforma per a la gestió d'articles i usuaris. Inclou un sistema complet d'autenticació, rols d'usuari i administració de contingut.
 
+## 🛠️ Testejar
+
+[Enllaç](https://xampp.garc.pro/practiques/practica7/public/home)
+usuari: marc@sapalomera.cat
+password: Sox2020@
+
 ## ✨ Característiques
 
 - 🔐 Sistema d'autenticació complet (registre, inici de sessió, recuperació de contrasenya)
